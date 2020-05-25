@@ -1,0 +1,2 @@
+numberof_probes=10
+numberof_disposal=5
